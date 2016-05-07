@@ -1,4 +1,15 @@
 {
   "name": "treeleaf/symfony-twig-extensions",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Steven Poelmans",
+      "email": "steven@treeleaf.be"
+    }
+  ],
+  "require": {
+    "twig": "1.x-dev"
+  }
 }
