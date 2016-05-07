@@ -4,6 +4,10 @@ This is a collection of Twig extensions that I use in symfony.
 ## Grunt Asset Cache Bust
 Extension when using Grunt plugin Cache Bust. See https://github.com/hollandben/grunt-cache-bust
 
+### How to install
+
+    composer require treeleaf/symfony-twig-extensions
+
 ### How to use in Symfony
 In app/Resources/services.yml:
 
