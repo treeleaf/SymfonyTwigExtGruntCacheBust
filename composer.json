@@ -11,5 +11,8 @@
   ],
   "require": {
     "twig/twig": "~1.12"
+  },
+  "autoload": {
+    "psr-4": { "Treeleaf\\Twig\\Extension\\": "" }
   }
 }

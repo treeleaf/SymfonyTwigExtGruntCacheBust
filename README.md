@@ -9,7 +9,7 @@ Extension when using Grunt plugin Cache Bust. See https://github.com/hollandben/
     composer require treeleaf/symfony-twig-extensions
 
 ### How to use in Symfony
-In app/Resources/config/services.yml:
+In app/config/services.yml:
 
     services:
       my_app.twig.grunt_cache_bust:
